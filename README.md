@@ -1,4 +1,4 @@
-# Bank Marketing DataSet - Intelligent Targeting:
+# Bank Marketing DataSet - Intelligent Targeting
 
 ## Introduction
 
