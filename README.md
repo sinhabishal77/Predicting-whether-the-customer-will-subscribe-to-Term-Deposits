@@ -74,7 +74,7 @@ Here is the description of all the variables :
 - Pandas
 - Seaborn
 - Logistic Regression
-- Decision Tree Regressor
+- Decision Tree Classifier
 
 ## References
 
