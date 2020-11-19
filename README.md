@@ -1,4 +1,4 @@
-# Bank Marketing DataSet - Intelligent Targeting
+# BANK MARKETING: Predicting Whether The Customer Will Subscribe To Term Deposit.
 
 ## Introduction
 
